@@ -3,12 +3,6 @@ import { useEffect, useState } from "react"
 import { Col, Row } from "react-bootstrap";
 import { ToastCenter } from "../utils/toast";
 
-
-import one from '../public/assets/uno.png';
-import cero from '../public/assets/cero.png';
-import eight from '../public/assets/ocho.png';
-
-
 export const Main = () => {
 
 
@@ -170,7 +164,7 @@ export const Main = () => {
                                 ¿Dónde estará?
                             </h3>
                             <h3 className="mt-5">
-                                Me dijeron un día que Conejo de pascua es bueno escondiendo HUEVOS,
+                                Me dijeron un día que el Conejo de pascua es bueno escondiendo HUEVOS,
                                 dónde dejará sus HUEVOS el conejo de pascua?
                             </h3>
                             <h3 className="mt-3">
