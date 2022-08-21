@@ -171,7 +171,7 @@ export const Main = () => {
                                 Sólo él sabe, y pronto Tú sabrás
                             </h3>
                         </Col>
-                        <Col sm={12} className="mt-5">
+                        <Col sm={12} className="mt-5 d-flex justify-content-center">
                             <Input.Password
                                 color="warning"
                                 clearable
