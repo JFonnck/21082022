@@ -133,7 +133,7 @@ export const Main = () => {
                     }
                     <div className="mt-5 w-100 d-flex justify-content-center">
                         <Row>
-                            <Col sm={12}>
+                            <Col sm={12} className="d-flex justify-content-center">
                                 <Input.Password
                                     color="warning"
                                     clearable
